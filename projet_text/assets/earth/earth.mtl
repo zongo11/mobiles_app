@@ -1,0 +1,9 @@
+# Simple material definition
+
+newmtl EarthMaterial
+Ka 1.000 1.000 1.000
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd earth_texture.jpg
